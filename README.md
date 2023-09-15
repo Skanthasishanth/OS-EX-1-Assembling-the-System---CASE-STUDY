@@ -51,9 +51,11 @@ To assemble the components of the computer.
 ![os10](https://github.com/Skanthasishanth/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118298456/dd15f2d5-75cc-4e85-9fcb-95216edfcc8d)
 
 12. Connect external cables to the computer.The VGA Cable Is Used To Connect To Monitor.
+    
 ![os11](https://github.com/Skanthasishanth/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118298456/cdb93ab8-aab9-4e4a-a320-ae2b66f96b7d)
 
 13. Push the power button to start the computer.
+    
 ![os12](https://github.com/Skanthasishanth/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118298456/746ad373-ba82-45c6-972f-6ed83afbb0ae)
 
 
